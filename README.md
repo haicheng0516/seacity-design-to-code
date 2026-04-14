@@ -1,5 +1,11 @@
 # seacity-design-to-code
 
+> 🇨🇳 **中文用户**：直接看 **[使用说明.md](使用说明.md)** — 一步一步带你用起来
+>
+> 🇺🇸 **English users**: continue reading below
+
+---
+
 A Claude Code Skill that turns design files (Figma/Sketch/XD) into high-fidelity UI code through a systematic, parallelized agent workflow powered by Pencil MCP.
 
 **Typical result: 95%+ visual similarity to the original design in 2 iteration rounds.**
